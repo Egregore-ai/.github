@@ -14,4 +14,4 @@
         />
     </picture>
 </p>
-<h1 align="center">Hi 👋, We're DecentraMind</h1>
+<h1 align="center">Hi 👋, We're Egregore</h1>
